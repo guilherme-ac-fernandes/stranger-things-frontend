@@ -10,11 +10,7 @@ class CharactersService {
   }
 
   async getCharacters(name, page, size) {
-    const params = {
-      page,
-      size,
-      name,
-    };
+    const params = { page, size, name };
 
     return this.http.get('/', { params });
   }
