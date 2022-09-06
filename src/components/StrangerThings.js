@@ -130,7 +130,7 @@ class StrangerThings extends React.Component {
             </button>
           </div>
 
-          {REACT_APP_DEVELOPMENT === 'true' && <p>Em desenvolvimento</p>}
+          {process.env.REACT_APP_DEVELOPMENT === 'true' && <p>Em desenvolvimento</p>}
 
           <div>
             <input
