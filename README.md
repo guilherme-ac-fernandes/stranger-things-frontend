@@ -1,16 +1,9 @@
-# 🚧 README em construção 🚧
+# Stranger Things Front-End 🛼
 
-<!-- Olá, Tryber!
+Consiste em uma API constrída pela _[Trybe](https://www.betrybe.com)_ para realização de um projeto para realizar o deploy atráves da plataforma da _[Heroku](https://www.heroku.com/)_, juntamente com o _[Back-End](https://github.com/guilherme-ac-fernandes/stranger-things-backend)_. 
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+### Demonstração
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+<p align="center">
+  <img src="https://github.com/guilherme-ac-fernandes/stranger-things-backend/blob/main/stranger-things.gif" alt="Stranger Things Gif - Demostração"/>
+</p>
