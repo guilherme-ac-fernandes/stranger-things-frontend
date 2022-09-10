@@ -5,5 +5,5 @@ Consiste em uma API constrída pela _[Trybe](https://www.betrybe.com)_ para real
 ### Demonstração
 
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/stranger-things-backend/blob/main/stranger-things.gif" alt="Stranger Things Gif - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/stranger-things-frontend/blob/main/stranger-things.gif" alt="Stranger Things Gif - Demostração"/>
 </p>
